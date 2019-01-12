@@ -1,6 +1,6 @@
 {
   "name": "@alexmorgan/lucy-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lucy Tools to implement lucy in node websites",
   "main": "index.js",
   "scripts": {
