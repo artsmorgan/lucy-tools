@@ -1,7 +1,7 @@
 const _ = require('lodash');
 const request = require('request');
 
-const __server = '127.0.0.1';
+const __server = '107.170.47.77';
 const __port = 4501;
 
 var client = function(config){
